@@ -164,7 +164,7 @@
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*" />
                     <RowDefinition Height="Auto" />
-                    <RowDefinition Height="100" Name="inputRow" />
+                    <RowDefinition Height="200" Name="inputRow" />
                 </Grid.RowDefinitions>
                 
                 <Controls:ChunkView  x:Name="chunkView" Padding="1" />
